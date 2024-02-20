@@ -1,4 +1,4 @@
-# AlgoBulls_Python_Developer_Coding_Assignment
+# Time Series Analysis
 This repository contains code for fetching and analyzing US stock data using Alpha Vantage.
 
 1. Fetching US Stock Data
